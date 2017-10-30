@@ -7,6 +7,9 @@
 /**
  * UA_Variants is a sort of container where you place one data type and a pointer to that data type
 */
+static void myNewTestBranch_form_Terminal(void){
+	printf("a new github-branch was created!\n");
+}
 
 static void
 variables_variants(void) {
